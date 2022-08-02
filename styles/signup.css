@@ -1,0 +1,41 @@
+.loginbutton{
+    padding-left:50
+}
+body{
+    background-image: url("../images/happy-students.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+.signUp-form{
+    background:white;
+    padding: 20px;
+    margin: auto;
+    width: 40%;
+}
+.form{
+    width: 60%;
+    margin: auto;
+}
+.single-input{
+    margin-bottom: 10px;
+}
+.single-input label{
+    font-size: large;
+    font-weight: bold;
+}
+.single-input input{
+    margin-left: 10px;
+
+}
+.loginbutton{
+    background: rgb(90, 161, 181);
+    border: none;
+    padding: 5px 25px;
+}
+.signupbutton{
+    background: rgb(55, 187, 217);
+    border:none;
+    padding:5px 25px;
+
+}
